@@ -1,1 +1,11 @@
-
+{
+  "latest_version": "1.0.4",
+  "release_date": "2026-11-15",
+  "patch_url": "https://github.com/cheatkimhour08-stack/SteavStudioPro-/releases/download/v1.0.4/SteavStudioPro_patch_v1.0.4.zip",
+  "full_url": "https://github.com/cheatkimhour08-stack/SteavStudioPro-/releases/tag/v1.0.4",
+  "patch_size_mb": 15.02,
+  "sha256": "ce52c4e2a2fb82e839e9388bc1e9d9cd301aacdce472c62f60723c88517a02ba",
+  "changelog_km": "• 🛡️ ដោះស្រាយបញ្ហា License Lifetime រលោតដាច់ ធានាដំណើរការ 100% អចិន្ត្រៃយ៍ ទោះបី Offline ឬដាច់អ៊ីនធឺណិត\n• 🎬 កែសម្រួលគុណភាព Video Dubbing Export ឱ្យម៉ដ្ឋច្បាស់ 100% (CRF 18 / NVENC CQ 19 កម្រិត Bitrate រហូតដល់ 35 Mbps)\n• ⚡ បង្កើនល្បឿន Render និងរក្សាទំហំរូបភាពច្បាស់ដូចវីដេអូដើម",
+  "is_major": false,
+  "force_update": false
+}
